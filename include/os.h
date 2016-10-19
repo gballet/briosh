@@ -1,3 +1,6 @@
+// This is free and unencumbered software released into the public domain.
+// Author: Guillaume Ballet
+
 #ifndef __OS_H__
 #define __OS_H__
 

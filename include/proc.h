@@ -1,3 +1,6 @@
+// This is free and unencumbered software released into the public domain.
+// Author: Guillaume Ballet
+
 #ifndef __PROC_H__
 #define __PROC_H__
 
